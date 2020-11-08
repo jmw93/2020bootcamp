@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align:center; 
+}
+h1{ 
+   
+
+}
+.top-container{
+    padding-top: 100px;
+    background: teal;
+    position: relative;
+}
+
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top:50px;
+}
+
+.bottom-cloud{
+   position: absolute;
+   left:300px;
+   bottom:300px;
+}
+
+.middle-container{
+    position: relative;
+}
+.black{
+    /* position: absolute; */
+    background: black;
+    width:100px;
+    height:100px;
+}
+
+.red{
+    background: red;
+    width:100px;
+    height:100px;
+}
+.pupple{
+    position:absolute;
+    background: purple;
+    width:100px;
+    height:100px;
+    top:20px;
+}
